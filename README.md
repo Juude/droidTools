@@ -10,5 +10,10 @@ Android开发者索引
 2. flurry
 3. gfan
 
-###similar projects
+####反编译工具
+1. apktool
+2. droidbox
+3. [androguard](https://code.google.com/p/androguard/)
+
+###类似项目
 https://github.com/inferjay/AndroidDevTools
