@@ -1,4 +1,4 @@
-Android开发者索引
+Android开发、调试工具索引
 ===============
 
 ###开发文档
@@ -14,6 +14,9 @@ Android开发者索引
 1. apktool
 2. droidbox
 3. [androguard](https://code.google.com/p/androguard/)
+
+####测试，质量工具
+[Quality-Tools-for-Android] (https://github.com/stephanenicolas/Quality-Tools-for-Android)
 
 ###类似项目
 https://github.com/inferjay/AndroidDevTools
